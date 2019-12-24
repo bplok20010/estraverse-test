@@ -1,0 +1,23 @@
+{
+  "name": "estraverse-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bplok20010/estraverse-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bplok20010/estraverse-test/issues"
+  },
+  "homepage": "https://github.com/bplok20010/estraverse-test#readme",
+  "dependencies": {
+    "estraverse": "^4.3.0"
+  }
+}
